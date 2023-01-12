@@ -1,0 +1,235 @@
+Cidade,CodigoDaCidade,Regiao,Data,Pais,Latitude,Longitude,TemperaturaMaxima,TemperaturaMinima,TemperaturaMedia,VaiChover,ChanceDeChuva,CondicaoDoTempo,NascerDoSol,PorDoSol,VelocidadeMaximaDoVento
+Aparecida,3502507,Sudeste,2023-01-12,Brazil,-22.851551,-45.234093,24,14,19,Sim,89,Chuva moderada,05:28:00,18:53:00,2.9
+Aparecida,3502507,Sudeste,2023-01-13,Brazil,-22.851551,-45.234093,30,14,21,Sim,88,Chuva moderada,05:28:00,18:53:00,4.0
+Aparecida,3502507,Sudeste,2023-01-14,Brazil,-22.851551,-45.234093,31,16,22,Sim,83,Chuva moderada,05:29:00,18:53:00,3.8
+Aparecida,3502507,Sudeste,2023-01-15,Brazil,-22.851551,-45.234093,31,16,22,Sim,89,Chuva moderada,05:30:00,18:53:00,4.3
+Aparecida,3502507,Sudeste,2023-01-16,Brazil,-22.851551,-45.234093,30,16,22,Sim,89,Possibilidade de chuva irregular,05:31:00,18:53:00,3.1
+Aparecida,3502507,Sudeste,2023-01-17,Brazil,-22.851551,-45.234093,31,15,20,Sim,84,Chuva moderada,05:31:00,18:53:00,3.1
+Arapei,3503158,Sudeste,2023-01-12,Brazil,-22.67389,-44.447777,28,20,23,Sim,96,Chuva moderada,05:24:00,18:48:00,4.3
+Arapei,3503158,Sudeste,2023-01-13,Brazil,-22.67389,-44.447777,29,19,23,Sim,89,Chuva moderada,05:25:00,18:48:00,2.5
+Arapei,3503158,Sudeste,2023-01-14,Brazil,-22.67389,-44.447777,28,20,24,Sim,88,Chuva moderada,05:26:00,18:48:00,2.9
+Arapei,3503158,Sudeste,2023-01-15,Brazil,-22.67389,-44.447777,30,20,24,Sim,89,Chuva moderada,05:27:00,18:48:00,4.5
+Arapei,3503158,Sudeste,2023-01-16,Brazil,-22.67389,-44.447777,32,20,24,Sim,89,Chuva moderada,05:27:00,18:48:00,5.8
+Arapei,3503158,Sudeste,2023-01-17,Brazil,-22.67389,-44.447777,30,19,22,Sim,89,Possibilidade de chuva irregular,05:28:00,18:48:00,5.1
+Areias,3503505,Sudeste,2023-01-12,Brazil,-22.580093,-44.697514,28,15,20,Sim,88,Chuva moderada,05:25:00,18:48:00,4.0
+Areias,3503505,Sudeste,2023-01-13,Brazil,-22.580093,-44.697514,29,15,21,Sim,87,Chuva moderada,05:26:00,18:48:00,2.9
+Areias,3503505,Sudeste,2023-01-14,Brazil,-22.580093,-44.697514,27,16,21,Sim,83,Chuva moderada,05:26:00,18:48:00,2.7
+Areias,3503505,Sudeste,2023-01-15,Brazil,-22.580093,-44.697514,30,16,22,Sim,87,Chuva moderada,05:27:00,18:48:00,4.3
+Areias,3503505,Sudeste,2023-01-16,Brazil,-22.580093,-44.697514,33,16,22,Sim,84,Chuva moderada,05:28:00,18:48:00,5.6
+Areias,3503505,Sudeste,2023-01-17,Brazil,-22.580093,-44.697514,31,16,20,Sim,88,Possibilidade de chuva irregular,05:28:00,18:48:00,4.3
+Bananal,3504909,Sudeste,2023-01-12,Brazil,-22.68282,-44.32211,28,20,23,Sim,96,Chuva moderada,05:24:00,18:48:00,4.3
+Bananal,3504909,Sudeste,2023-01-13,Brazil,-22.68282,-44.32211,29,19,23,Sim,89,Chuva moderada,05:25:00,18:48:00,2.5
+Bananal,3504909,Sudeste,2023-01-14,Brazil,-22.68282,-44.32211,28,20,24,Sim,88,Chuva moderada,05:26:00,18:48:00,2.9
+Bananal,3504909,Sudeste,2023-01-15,Brazil,-22.68282,-44.32211,30,20,24,Sim,89,Chuva moderada,05:27:00,18:48:00,4.5
+Bananal,3504909,Sudeste,2023-01-16,Brazil,-22.68282,-44.32211,32,20,24,Sim,89,Chuva moderada,05:27:00,18:48:00,5.8
+Bananal,3504909,Sudeste,2023-01-17,Brazil,-22.68282,-44.32211,30,19,22,Sim,89,Possibilidade de chuva irregular,05:28:00,18:48:00,5.1
+Cacapava,3508504,Sudeste,2023-01-12,Brazil,-23.099203,-45.707645,26,17,20,Sim,87,Possibilidade de chuva irregular,05:29:00,18:55:00,3.1
+Cacapava,3508504,Sudeste,2023-01-13,Brazil,-23.099203,-45.707645,29,17,22,Sim,85,Chuva moderada,05:30:00,18:55:00,6.3
+Cacapava,3508504,Sudeste,2023-01-14,Brazil,-23.099203,-45.707645,32,18,23,Sim,89,Chuva moderada,05:30:00,18:55:00,4.0
+Cacapava,3508504,Sudeste,2023-01-15,Brazil,-23.099203,-45.707645,32,19,24,Sim,85,Chuva moderada,05:31:00,18:55:00,3.4
+Cacapava,3508504,Sudeste,2023-01-16,Brazil,-23.099203,-45.707645,31,19,23,Sim,89,Possibilidade de chuva irregular,05:32:00,18:55:00,3.8
+Cacapava,3508504,Sudeste,2023-01-17,Brazil,-23.099203,-45.707645,30,18,22,Sim,83,Chuva moderada,05:32:00,18:55:00,4.0
+Cachoeira Paulista,3508603,Sudeste,2023-01-12,Brazil,-22.666498,-45.015385,26,15,20,Sim,94,Chuva moderada,05:27:00,18:51:00,2.7
+Cachoeira Paulista,3508603,Sudeste,2023-01-13,Brazil,-22.666498,-45.015385,30,15,22,Sim,89,Chuva moderada,05:28:00,18:52:00,4.5
+Cachoeira Paulista,3508603,Sudeste,2023-01-14,Brazil,-22.666498,-45.015385,31,16,22,Sim,87,Chuva moderada,05:28:00,18:52:00,3.8
+Cachoeira Paulista,3508603,Sudeste,2023-01-15,Brazil,-22.666498,-45.015385,31,17,23,Sim,87,Chuva moderada,05:29:00,18:52:00,3.4
+Cachoeira Paulista,3508603,Sudeste,2023-01-16,Brazil,-22.666498,-45.015385,31,17,23,Sim,79,Possibilidade de chuva irregular,05:30:00,18:51:00,4.0
+Cachoeira Paulista,3508603,Sudeste,2023-01-17,Brazil,-22.666498,-45.015385,30,16,20,Sim,83,Chuva moderada,05:30:00,18:51:00,3.8
+Campos do Jordao,3509700,Sudeste,2023-01-12,Brazil,-22.739527,-45.59128,24,17,20,Sim,95,Chuva moderada,05:28:00,18:53:00,2.9
+Campos do Jordao,3509700,Sudeste,2023-01-13,Brazil,-22.739527,-45.59128,29,17,22,Sim,87,Chuva moderada,05:29:00,18:53:00,5.1
+Campos do Jordao,3509700,Sudeste,2023-01-14,Brazil,-22.739527,-45.59128,30,18,23,Sim,88,Chuva moderada,05:29:00,18:53:00,3.4
+Campos do Jordao,3509700,Sudeste,2023-01-15,Brazil,-22.739527,-45.59128,31,18,24,Sim,89,Chuva moderada,05:30:00,18:53:00,4.3
+Campos do Jordao,3509700,Sudeste,2023-01-16,Brazil,-22.739527,-45.59128,30,20,23,Sim,88,Chuva moderada,05:31:00,18:53:00,3.8
+Campos do Jordao,3509700,Sudeste,2023-01-17,Brazil,-22.739527,-45.59128,30,18,22,Sim,85,Chuva moderada,05:31:00,18:53:00,3.4
+Canas,3509957,Sudeste,2023-01-12,Brazil,-22.702934,-45.05265,26,15,20,Sim,94,Chuva moderada,05:27:00,18:51:00,2.7
+Canas,3509957,Sudeste,2023-01-13,Brazil,-22.702934,-45.05265,30,15,22,Sim,89,Chuva moderada,05:28:00,18:52:00,4.5
+Canas,3509957,Sudeste,2023-01-14,Brazil,-22.702934,-45.05265,31,16,22,Sim,87,Chuva moderada,05:28:00,18:52:00,3.8
+Canas,3509957,Sudeste,2023-01-15,Brazil,-22.702934,-45.05265,31,17,23,Sim,87,Chuva moderada,05:29:00,18:52:00,3.4
+Canas,3509957,Sudeste,2023-01-16,Brazil,-22.702934,-45.05265,31,17,23,Sim,79,Possibilidade de chuva irregular,05:30:00,18:51:00,4.0
+Canas,3509957,Sudeste,2023-01-17,Brazil,-22.702934,-45.05265,30,16,20,Sim,83,Chuva moderada,05:30:00,18:51:00,3.8
+Caraguatatuba,3510500,Sudeste,2023-01-12,Brazil,-23.62028,-45.41306,29,22,24,Sim,80,Possibilidade de chuva irregular,05:26:00,18:54:00,7.6
+Caraguatatuba,3510500,Sudeste,2023-01-13,Brazil,-23.62028,-45.41306,30,22,25,Sim,88,Chuva moderada,05:26:00,18:54:00,7.6
+Caraguatatuba,3510500,Sudeste,2023-01-14,Brazil,-23.62028,-45.41306,31,22,26,Sim,85,Chuva moderada,05:27:00,18:54:00,6.9
+Caraguatatuba,3510500,Sudeste,2023-01-15,Brazil,-23.62028,-45.41306,31,22,26,Sim,88,Chuva moderada,05:28:00,18:54:00,6.5
+Caraguatatuba,3510500,Sudeste,2023-01-16,Brazil,-23.62028,-45.41306,28,22,24,Sim,88,Chuva moderada,05:29:00,18:54:00,7.6
+Caraguatatuba,3510500,Sudeste,2023-01-17,Brazil,-23.62028,-45.41306,31,22,24,Sim,87,Possibilidade de chuva irregular,05:29:00,18:54:00,4.5
+Cruzeiro,3513405,Sudeste,2023-01-12,Brazil,-22.57837,-44.964203,26,15,20,Sim,94,Chuva moderada,05:27:00,18:51:00,2.7
+Cruzeiro,3513405,Sudeste,2023-01-13,Brazil,-22.57837,-44.964203,30,15,22,Sim,89,Chuva moderada,05:28:00,18:52:00,4.5
+Cruzeiro,3513405,Sudeste,2023-01-14,Brazil,-22.57837,-44.964203,31,16,22,Sim,87,Chuva moderada,05:28:00,18:52:00,3.8
+Cruzeiro,3513405,Sudeste,2023-01-15,Brazil,-22.57837,-44.964203,31,17,23,Sim,87,Chuva moderada,05:29:00,18:52:00,3.4
+Cruzeiro,3513405,Sudeste,2023-01-16,Brazil,-22.57837,-44.964203,31,17,23,Sim,79,Possibilidade de chuva irregular,05:30:00,18:51:00,4.0
+Cruzeiro,3513405,Sudeste,2023-01-17,Brazil,-22.57837,-44.964203,30,16,20,Sim,83,Chuva moderada,05:30:00,18:51:00,3.8
+Cunha,3513603,Sudeste,2023-01-12,Brazil,-23.07753,-44.956745,25,18,21,Sim,97,Chuva moderada,05:28:00,18:53:00,2.7
+Cunha,3513603,Sudeste,2023-01-13,Brazil,-23.07753,-44.956745,29,18,23,Sim,89,Chuva forte,05:28:00,18:53:00,4.0
+Cunha,3513603,Sudeste,2023-01-14,Brazil,-23.07753,-44.956745,31,20,24,Sim,83,Chuva moderada,05:29:00,18:53:00,3.8
+Cunha,3513603,Sudeste,2023-01-15,Brazil,-23.07753,-44.956745,31,20,24,Sim,88,Chuva moderada,05:30:00,18:53:00,4.3
+Cunha,3513603,Sudeste,2023-01-16,Brazil,-23.07753,-44.956745,30,20,24,Sim,88,Chuva moderada,05:31:00,18:53:00,3.1
+Cunha,3513603,Sudeste,2023-01-17,Brazil,-23.07753,-44.956745,30,20,22,Sim,80,Chuva moderada,05:31:00,18:53:00,3.1
+Guaratingueta,3518404,Sudeste,2023-01-12,Brazil,-22.805784,-45.19089,25,16,20,Sim,92,Chuva moderada,05:27:00,18:51:00,3.4
+Guaratingueta,3518404,Sudeste,2023-01-13,Brazil,-22.805784,-45.19089,30,16,22,Sim,89,Chuva moderada,05:28:00,18:51:00,4.7
+Guaratingueta,3518404,Sudeste,2023-01-14,Brazil,-22.805784,-45.19089,31,17,23,Sim,79,Chuva forte,05:28:00,18:51:00,3.8
+Guaratingueta,3518404,Sudeste,2023-01-15,Brazil,-22.805784,-45.19089,32,17,23,Sim,86,Possibilidade de chuva irregular,05:29:00,18:51:00,3.4
+Guaratingueta,3518404,Sudeste,2023-01-16,Brazil,-22.805784,-45.19089,31,18,23,Sim,89,Possibilidade de chuva irregular,05:30:00,18:51:00,4.3
+Guaratingueta,3518404,Sudeste,2023-01-17,Brazil,-22.805784,-45.19089,31,18,22,Sim,75,Chuva moderada,05:30:00,18:51:00,3.8
+Igarata,3520202,Sudeste,2023-01-12,Brazil,-23.206348,-46.156933,26,18,21,Sim,86,Chuva moderada,05:29:00,18:55:00,3.8
+Igarata,3520202,Sudeste,2023-01-13,Brazil,-23.206348,-46.156933,29,18,23,Sim,89,Chuva moderada,05:30:00,18:55:00,6.9
+Igarata,3520202,Sudeste,2023-01-14,Brazil,-23.206348,-46.156933,32,19,24,Sim,86,Chuva moderada,05:30:00,18:55:00,5.6
+Igarata,3520202,Sudeste,2023-01-15,Brazil,-23.206348,-46.156933,33,20,25,Sim,88,Chuva moderada,05:31:00,18:55:00,2.9
+Igarata,3520202,Sudeste,2023-01-16,Brazil,-23.206348,-46.156933,30,20,24,Sim,88,Chuva moderada,05:32:00,18:55:00,4.9
+Igarata,3520202,Sudeste,2023-01-17,Brazil,-23.206348,-46.156933,30,19,22,Sim,83,Chuva moderada,05:33:00,18:55:00,5.6
+Ilhabela,3520400,Sudeste,2023-01-12,Brazil,-23.816628,-45.368687,26,18,21,Sim,86,Chuva moderada,05:29:00,18:55:00,3.8
+Ilhabela,3520400,Sudeste,2023-01-13,Brazil,-23.816628,-45.368687,29,18,23,Sim,89,Chuva moderada,05:30:00,18:55:00,6.9
+Ilhabela,3520400,Sudeste,2023-01-14,Brazil,-23.816628,-45.368687,32,19,24,Sim,86,Chuva moderada,05:30:00,18:55:00,5.6
+Ilhabela,3520400,Sudeste,2023-01-15,Brazil,-23.816628,-45.368687,33,20,25,Sim,88,Chuva moderada,05:31:00,18:55:00,2.9
+Ilhabela,3520400,Sudeste,2023-01-16,Brazil,-23.816628,-45.368687,30,20,24,Sim,88,Chuva moderada,05:32:00,18:55:00,4.9
+Ilhabela,3520400,Sudeste,2023-01-17,Brazil,-23.816628,-45.368687,30,19,22,Sim,83,Chuva moderada,05:33:00,18:55:00,5.6
+Jacarei,3524402,Sudeste,2023-01-12,Brazil,-23.30528,-45.96583,26,18,21,Sim,86,Chuva moderada,05:29:00,18:55:00,3.8
+Jacarei,3524402,Sudeste,2023-01-13,Brazil,-23.30528,-45.96583,29,18,23,Sim,89,Chuva moderada,05:30:00,18:55:00,6.9
+Jacarei,3524402,Sudeste,2023-01-14,Brazil,-23.30528,-45.96583,32,19,24,Sim,86,Chuva moderada,05:30:00,18:55:00,5.6
+Jacarei,3524402,Sudeste,2023-01-15,Brazil,-23.30528,-45.96583,33,20,25,Sim,88,Chuva moderada,05:31:00,18:55:00,2.9
+Jacarei,3524402,Sudeste,2023-01-16,Brazil,-23.30528,-45.96583,30,20,24,Sim,88,Chuva moderada,05:32:00,18:55:00,4.9
+Jacarei,3524402,Sudeste,2023-01-17,Brazil,-23.30528,-45.96583,30,19,22,Sim,83,Chuva moderada,05:33:00,18:55:00,5.6
+Jambeiro,3524907,Sudeste,2023-01-12,Brazil,-23.255642,-45.691994,26,17,20,Sim,87,Possibilidade de chuva irregular,05:29:00,18:55:00,3.1
+Jambeiro,3524907,Sudeste,2023-01-13,Brazil,-23.255642,-45.691994,29,17,22,Sim,85,Chuva moderada,05:30:00,18:55:00,6.3
+Jambeiro,3524907,Sudeste,2023-01-14,Brazil,-23.255642,-45.691994,32,18,23,Sim,89,Chuva moderada,05:30:00,18:55:00,4.0
+Jambeiro,3524907,Sudeste,2023-01-15,Brazil,-23.255642,-45.691994,32,19,24,Sim,85,Chuva moderada,05:31:00,18:55:00,3.4
+Jambeiro,3524907,Sudeste,2023-01-16,Brazil,-23.255642,-45.691994,31,19,23,Sim,89,Possibilidade de chuva irregular,05:32:00,18:55:00,3.8
+Jambeiro,3524907,Sudeste,2023-01-17,Brazil,-23.255642,-45.691994,30,18,22,Sim,83,Chuva moderada,05:32:00,18:55:00,4.0
+Lagoinha,3526308,Sudeste,2023-01-12,Brazil,-23.089834,-45.190384,24,17,20,Sim,97,Chuva moderada,05:26:00,18:51:00,4.0
+Lagoinha,3526308,Sudeste,2023-01-13,Brazil,-23.089834,-45.190384,26,17,21,Sim,89,Chuva forte,05:26:00,18:51:00,4.9
+Lagoinha,3526308,Sudeste,2023-01-14,Brazil,-23.089834,-45.190384,28,18,22,Sim,86,Chuva moderada,05:27:00,18:51:00,3.6
+Lagoinha,3526308,Sudeste,2023-01-15,Brazil,-23.089834,-45.190384,30,18,23,Sim,88,Chuva moderada,05:28:00,18:51:00,4.5
+Lagoinha,3526308,Sudeste,2023-01-16,Brazil,-23.089834,-45.190384,28,18,22,Sim,78,Chuva moderada,05:29:00,18:51:00,4.0
+Lagoinha,3526308,Sudeste,2023-01-17,Brazil,-23.089834,-45.190384,28,18,20,Não,61,Chuva moderada,05:29:00,18:51:00,4.3
+Lavrinhas,3526605,Sudeste,2023-01-12,Brazil,-22.570047,-44.90236,26,15,20,Sim,94,Chuva moderada,05:27:00,18:51:00,2.7
+Lavrinhas,3526605,Sudeste,2023-01-13,Brazil,-22.570047,-44.90236,30,15,22,Sim,89,Chuva moderada,05:28:00,18:52:00,4.5
+Lavrinhas,3526605,Sudeste,2023-01-14,Brazil,-22.570047,-44.90236,31,16,22,Sim,87,Chuva moderada,05:28:00,18:52:00,3.8
+Lavrinhas,3526605,Sudeste,2023-01-15,Brazil,-22.570047,-44.90236,31,17,23,Sim,87,Chuva moderada,05:29:00,18:52:00,3.4
+Lavrinhas,3526605,Sudeste,2023-01-16,Brazil,-22.570047,-44.90236,31,17,23,Sim,79,Possibilidade de chuva irregular,05:30:00,18:51:00,4.0
+Lavrinhas,3526605,Sudeste,2023-01-17,Brazil,-22.570047,-44.90236,30,16,20,Sim,83,Chuva moderada,05:30:00,18:51:00,3.8
+Lorena,3527207,Sudeste,2023-01-12,Brazil,-22.736765,-45.107086,26,15,20,Sim,94,Chuva moderada,05:27:00,18:51:00,2.7
+Lorena,3527207,Sudeste,2023-01-13,Brazil,-22.736765,-45.107086,30,15,22,Sim,89,Chuva moderada,05:28:00,18:52:00,4.5
+Lorena,3527207,Sudeste,2023-01-14,Brazil,-22.736765,-45.107086,31,16,22,Sim,87,Chuva moderada,05:28:00,18:52:00,3.8
+Lorena,3527207,Sudeste,2023-01-15,Brazil,-22.736765,-45.107086,31,17,23,Sim,87,Chuva moderada,05:29:00,18:52:00,3.4
+Lorena,3527207,Sudeste,2023-01-16,Brazil,-22.736765,-45.107086,31,17,23,Sim,79,Possibilidade de chuva irregular,05:30:00,18:51:00,4.0
+Lorena,3527207,Sudeste,2023-01-17,Brazil,-22.736765,-45.107086,30,16,20,Sim,83,Chuva moderada,05:30:00,18:51:00,3.8
+Monteiro Lobato,3531704,Sudeste,2023-01-12,Brazil,-22.955355,-45.838715,25,18,20,Sim,87,Possibilidade de chuva irregular,05:28:00,18:54:00,2.5
+Monteiro Lobato,3531704,Sudeste,2023-01-13,Brazil,-22.955355,-45.838715,28,16,22,Sim,89,Chuva moderada,05:29:00,18:54:00,4.5
+Monteiro Lobato,3531704,Sudeste,2023-01-14,Brazil,-22.955355,-45.838715,32,19,24,Sim,80,Chuva moderada,05:30:00,18:54:00,2.9
+Monteiro Lobato,3531704,Sudeste,2023-01-15,Brazil,-22.955355,-45.838715,32,19,24,Sim,86,Chuva moderada,05:30:00,18:54:00,3.8
+Monteiro Lobato,3531704,Sudeste,2023-01-16,Brazil,-22.955355,-45.838715,30,18,22,Sim,89,Chuva moderada,05:31:00,18:54:00,3.6
+Monteiro Lobato,3531704,Sudeste,2023-01-17,Brazil,-22.955355,-45.838715,29,17,21,Sim,86,Chuva moderada,05:32:00,18:54:00,2.7
+Natividade da Serra,3532306,Sudeste,2023-01-12,Brazil,-23.378378,-45.443817,29,18,23,Sim,86,Possibilidade de chuva irregular,05:26:00,18:54:00,3.8
+Natividade da Serra,3532306,Sudeste,2023-01-13,Brazil,-23.378378,-45.443817,32,18,23,Sim,85,Chuva moderada,05:27:00,18:54:00,4.3
+Natividade da Serra,3532306,Sudeste,2023-01-14,Brazil,-23.378378,-45.443817,35,19,25,Sim,77,Chuva moderada,05:28:00,18:54:00,4.0
+Natividade da Serra,3532306,Sudeste,2023-01-15,Brazil,-23.378378,-45.443817,34,19,25,Sim,89,Chuva moderada,05:28:00,18:54:00,3.8
+Natividade da Serra,3532306,Sudeste,2023-01-16,Brazil,-23.378378,-45.443817,31,19,24,Sim,86,Chuva moderada,05:29:00,18:54:00,4.7
+Natividade da Serra,3532306,Sudeste,2023-01-17,Brazil,-23.378378,-45.443817,31,18,22,Sim,87,Chuva moderada,05:30:00,18:54:00,4.5
+Paraibuna,3535606,Sudeste,2023-01-12,Brazil,-23.386421,-45.66268,25,17,20,Sim,85,Possibilidade de chuva irregular,05:29:00,18:55:00,3.4
+Paraibuna,3535606,Sudeste,2023-01-13,Brazil,-23.386421,-45.66268,29,18,22,Sim,89,Chuva moderada,05:29:00,18:55:00,7.4
+Paraibuna,3535606,Sudeste,2023-01-14,Brazil,-23.386421,-45.66268,32,18,23,Sim,82,Chuva moderada,05:30:00,18:55:00,4.0
+Paraibuna,3535606,Sudeste,2023-01-15,Brazil,-23.386421,-45.66268,32,19,25,Sim,89,Chuva moderada,05:31:00,18:55:00,3.8
+Paraibuna,3535606,Sudeste,2023-01-16,Brazil,-23.386421,-45.66268,32,19,24,Sim,87,Chuva moderada,05:32:00,18:55:00,4.3
+Paraibuna,3535606,Sudeste,2023-01-17,Brazil,-23.386421,-45.66268,29,19,22,Sim,86,Chuva moderada,05:32:00,18:55:00,4.3
+Pindamonhangaba,3538006,Sudeste,2023-01-12,Brazil,-22.9364,-45.46226,24,14,19,Sim,89,Chuva moderada,05:28:00,18:53:00,2.9
+Pindamonhangaba,3538006,Sudeste,2023-01-13,Brazil,-22.9364,-45.46226,30,14,21,Sim,88,Chuva moderada,05:28:00,18:53:00,4.0
+Pindamonhangaba,3538006,Sudeste,2023-01-14,Brazil,-22.9364,-45.46226,31,16,22,Sim,83,Chuva moderada,05:29:00,18:53:00,3.8
+Pindamonhangaba,3538006,Sudeste,2023-01-15,Brazil,-22.9364,-45.46226,31,16,22,Sim,89,Chuva moderada,05:30:00,18:53:00,4.3
+Pindamonhangaba,3538006,Sudeste,2023-01-16,Brazil,-22.9364,-45.46226,30,16,22,Sim,89,Possibilidade de chuva irregular,05:31:00,18:53:00,3.1
+Pindamonhangaba,3538006,Sudeste,2023-01-17,Brazil,-22.9364,-45.46226,31,15,20,Sim,84,Chuva moderada,05:31:00,18:53:00,3.1
+Piquete,3538501,Sudeste,2023-01-12,Brazil,-22.613846,-45.17771,26,15,20,Sim,94,Chuva moderada,05:27:00,18:51:00,2.7
+Piquete,3538501,Sudeste,2023-01-13,Brazil,-22.613846,-45.17771,30,15,22,Sim,89,Chuva moderada,05:28:00,18:52:00,4.5
+Piquete,3538501,Sudeste,2023-01-14,Brazil,-22.613846,-45.17771,31,16,22,Sim,87,Chuva moderada,05:28:00,18:52:00,3.8
+Piquete,3538501,Sudeste,2023-01-15,Brazil,-22.613846,-45.17771,31,17,23,Sim,87,Chuva moderada,05:29:00,18:52:00,3.4
+Piquete,3538501,Sudeste,2023-01-16,Brazil,-22.613846,-45.17771,31,17,23,Sim,79,Possibilidade de chuva irregular,05:30:00,18:51:00,4.0
+Piquete,3538501,Sudeste,2023-01-17,Brazil,-22.613846,-45.17771,30,16,20,Sim,83,Chuva moderada,05:30:00,18:51:00,3.8
+Potim,3540754,Sudeste,2023-01-12,Brazil,-22.837723,-45.256523,24,14,19,Sim,89,Chuva moderada,05:28:00,18:53:00,2.9
+Potim,3540754,Sudeste,2023-01-13,Brazil,-22.837723,-45.256523,30,14,21,Sim,88,Chuva moderada,05:28:00,18:53:00,4.0
+Potim,3540754,Sudeste,2023-01-14,Brazil,-22.837723,-45.256523,31,16,22,Sim,83,Chuva moderada,05:29:00,18:53:00,3.8
+Potim,3540754,Sudeste,2023-01-15,Brazil,-22.837723,-45.256523,31,16,22,Sim,89,Chuva moderada,05:30:00,18:53:00,4.3
+Potim,3540754,Sudeste,2023-01-16,Brazil,-22.837723,-45.256523,30,16,22,Sim,89,Possibilidade de chuva irregular,05:31:00,18:53:00,3.1
+Potim,3540754,Sudeste,2023-01-17,Brazil,-22.837723,-45.256523,31,15,20,Sim,84,Chuva moderada,05:31:00,18:53:00,3.1
+Queluz,3541901,Sudeste,2023-01-12,Brazil,-22.537188,-44.775257,26,15,20,Sim,91,Chuva moderada,05:27:00,18:51:00,2.7
+Queluz,3541901,Sudeste,2023-01-13,Brazil,-22.537188,-44.775257,30,16,22,Sim,89,Chuva forte,05:28:00,18:51:00,4.7
+Queluz,3541901,Sudeste,2023-01-14,Brazil,-22.537188,-44.775257,30,16,22,Sim,89,Chuva moderada,05:28:00,18:51:00,4.0
+Queluz,3541901,Sudeste,2023-01-15,Brazil,-22.537188,-44.775257,31,16,22,Sim,89,Chuva moderada,05:29:00,18:51:00,3.6
+Queluz,3541901,Sudeste,2023-01-16,Brazil,-22.537188,-44.775257,31,17,22,Sim,88,Chuva moderada,05:30:00,18:51:00,4.9
+Queluz,3541901,Sudeste,2023-01-17,Brazil,-22.537188,-44.775257,30,16,20,Sim,87,Chuva moderada,05:30:00,18:51:00,4.0
+Redencao da Serra,3542305,Sudeste,2023-01-12,Brazil,-23.280365,-45.534576,25,18,20,Sim,87,Possibilidade de chuva irregular,05:28:00,18:54:00,2.5
+Redencao da Serra,3542305,Sudeste,2023-01-13,Brazil,-23.280365,-45.534576,28,16,22,Sim,89,Chuva moderada,05:29:00,18:54:00,4.5
+Redencao da Serra,3542305,Sudeste,2023-01-14,Brazil,-23.280365,-45.534576,32,19,24,Sim,80,Chuva moderada,05:30:00,18:54:00,2.9
+Redencao da Serra,3542305,Sudeste,2023-01-15,Brazil,-23.280365,-45.534576,32,19,24,Sim,86,Chuva moderada,05:30:00,18:54:00,3.8
+Redencao da Serra,3542305,Sudeste,2023-01-16,Brazil,-23.280365,-45.534576,30,18,22,Sim,89,Chuva moderada,05:31:00,18:54:00,3.6
+Redencao da Serra,3542305,Sudeste,2023-01-17,Brazil,-23.280365,-45.534576,29,17,21,Sim,86,Chuva moderada,05:32:00,18:54:00,2.7
+Roseira,3544301,Sudeste,2023-01-12,Brazil,-22.89809,-45.309322,24,14,19,Sim,89,Chuva moderada,05:28:00,18:53:00,2.9
+Roseira,3544301,Sudeste,2023-01-13,Brazil,-22.89809,-45.309322,30,14,21,Sim,88,Chuva moderada,05:28:00,18:53:00,4.0
+Roseira,3544301,Sudeste,2023-01-14,Brazil,-22.89809,-45.309322,31,16,22,Sim,83,Chuva moderada,05:29:00,18:53:00,3.8
+Roseira,3544301,Sudeste,2023-01-15,Brazil,-22.89809,-45.309322,31,16,22,Sim,89,Chuva moderada,05:30:00,18:53:00,4.3
+Roseira,3544301,Sudeste,2023-01-16,Brazil,-22.89809,-45.309322,30,16,22,Sim,89,Possibilidade de chuva irregular,05:31:00,18:53:00,3.1
+Roseira,3544301,Sudeste,2023-01-17,Brazil,-22.89809,-45.309322,31,15,20,Sim,84,Chuva moderada,05:31:00,18:53:00,3.1
+Santa Branca,3546009,Sudeste,2023-01-12,Brazil,-23.397436,-45.884228,25,17,20,Sim,85,Possibilidade de chuva irregular,05:29:00,18:55:00,3.4
+Santa Branca,3546009,Sudeste,2023-01-13,Brazil,-23.397436,-45.884228,29,18,22,Sim,89,Chuva moderada,05:29:00,18:55:00,7.4
+Santa Branca,3546009,Sudeste,2023-01-14,Brazil,-23.397436,-45.884228,32,18,23,Sim,82,Chuva moderada,05:30:00,18:55:00,4.0
+Santa Branca,3546009,Sudeste,2023-01-15,Brazil,-23.397436,-45.884228,32,19,25,Sim,89,Chuva moderada,05:31:00,18:55:00,3.8
+Santa Branca,3546009,Sudeste,2023-01-16,Brazil,-23.397436,-45.884228,32,19,24,Sim,87,Chuva moderada,05:32:00,18:55:00,4.3
+Santa Branca,3546009,Sudeste,2023-01-17,Brazil,-23.397436,-45.884228,29,19,22,Sim,86,Chuva moderada,05:32:00,18:55:00,4.3
+Santo Antonio do Pinhal,3548203,Sudeste,2023-01-12,Brazil,-22.82505,-45.667408,24,17,20,Sim,95,Chuva moderada,05:28:00,18:53:00,2.9
+Santo Antonio do Pinhal,3548203,Sudeste,2023-01-13,Brazil,-22.82505,-45.667408,29,17,22,Sim,87,Chuva moderada,05:29:00,18:53:00,5.1
+Santo Antonio do Pinhal,3548203,Sudeste,2023-01-14,Brazil,-22.82505,-45.667408,30,18,23,Sim,88,Chuva moderada,05:29:00,18:53:00,3.4
+Santo Antonio do Pinhal,3548203,Sudeste,2023-01-15,Brazil,-22.82505,-45.667408,31,18,24,Sim,89,Chuva moderada,05:30:00,18:53:00,4.3
+Santo Antonio do Pinhal,3548203,Sudeste,2023-01-16,Brazil,-22.82505,-45.667408,30,20,23,Sim,88,Chuva moderada,05:31:00,18:53:00,3.8
+Santo Antonio do Pinhal,3548203,Sudeste,2023-01-17,Brazil,-22.82505,-45.667408,30,18,22,Sim,85,Chuva moderada,05:31:00,18:53:00,3.4
+Sao Bento do Sapucai,3548609,Sudeste,2023-01-12,Brazil,-22.688461,-45.732975,20,15,17,Sim,95,Chuva moderada,05:29:00,18:52:00,3.8
+Sao Bento do Sapucai,3548609,Sudeste,2023-01-13,Brazil,-22.688461,-45.732975,22,15,18,Sim,89,Chuva forte,05:29:00,18:52:00,4.3
+Sao Bento do Sapucai,3548609,Sudeste,2023-01-14,Brazil,-22.688461,-45.732975,23,16,19,Sim,88,Chuva forte,05:30:00,18:52:00,3.8
+Sao Bento do Sapucai,3548609,Sudeste,2023-01-15,Brazil,-22.688461,-45.732975,24,16,19,Sim,87,Chuva moderada,05:31:00,18:52:00,3.8
+Sao Bento do Sapucai,3548609,Sudeste,2023-01-16,Brazil,-22.688461,-45.732975,24,16,19,Sim,88,Chuva moderada,05:31:00,18:52:00,3.8
+Sao Bento do Sapucai,3548609,Sudeste,2023-01-17,Brazil,-22.688461,-45.732975,24,15,19,Sim,83,Chuva moderada,05:32:00,18:52:00,3.8
+Sao Jose do Barreiro,3549607,Sudeste,2023-01-12,Brazil,-22.645237,-44.580524,28,15,20,Sim,88,Chuva moderada,05:25:00,18:48:00,4.0
+Sao Jose do Barreiro,3549607,Sudeste,2023-01-13,Brazil,-22.645237,-44.580524,29,15,21,Sim,87,Chuva moderada,05:26:00,18:48:00,2.9
+Sao Jose do Barreiro,3549607,Sudeste,2023-01-14,Brazil,-22.645237,-44.580524,27,16,21,Sim,83,Chuva moderada,05:26:00,18:48:00,2.7
+Sao Jose do Barreiro,3549607,Sudeste,2023-01-15,Brazil,-22.645237,-44.580524,30,16,22,Sim,87,Chuva moderada,05:27:00,18:48:00,4.3
+Sao Jose do Barreiro,3549607,Sudeste,2023-01-16,Brazil,-22.645237,-44.580524,33,16,22,Sim,84,Chuva moderada,05:28:00,18:48:00,5.6
+Sao Jose do Barreiro,3549607,Sudeste,2023-01-17,Brazil,-22.645237,-44.580524,31,16,20,Sim,88,Possibilidade de chuva irregular,05:28:00,18:48:00,4.3
+Sao Jose dos Campos,3549904,Sudeste,2023-01-12,Brazil,-23.186779,-45.885452,26,17,20,Sim,87,Possibilidade de chuva irregular,05:29:00,18:55:00,3.1
+Sao Jose dos Campos,3549904,Sudeste,2023-01-13,Brazil,-23.186779,-45.885452,29,17,22,Sim,85,Chuva moderada,05:30:00,18:55:00,6.3
+Sao Jose dos Campos,3549904,Sudeste,2023-01-14,Brazil,-23.186779,-45.885452,32,18,23,Sim,89,Chuva moderada,05:30:00,18:55:00,4.0
+Sao Jose dos Campos,3549904,Sudeste,2023-01-15,Brazil,-23.186779,-45.885452,32,19,24,Sim,85,Chuva moderada,05:31:00,18:55:00,3.4
+Sao Jose dos Campos,3549904,Sudeste,2023-01-16,Brazil,-23.186779,-45.885452,31,19,23,Sim,89,Possibilidade de chuva irregular,05:32:00,18:55:00,3.8
+Sao Jose dos Campos,3549904,Sudeste,2023-01-17,Brazil,-23.186779,-45.885452,30,18,22,Sim,83,Chuva moderada,05:32:00,18:55:00,4.0
+Sao Luiz do Paraitinga,3550001,Sudeste,2023-01-12,Brazil,-23.222054,-45.310844,24,17,20,Sim,97,Chuva moderada,05:26:00,18:51:00,4.0
+Sao Luiz do Paraitinga,3550001,Sudeste,2023-01-13,Brazil,-23.222054,-45.310844,26,17,21,Sim,89,Chuva forte,05:26:00,18:51:00,4.9
+Sao Luiz do Paraitinga,3550001,Sudeste,2023-01-14,Brazil,-23.222054,-45.310844,28,18,22,Sim,86,Chuva moderada,05:27:00,18:51:00,3.6
+Sao Luiz do Paraitinga,3550001,Sudeste,2023-01-15,Brazil,-23.222054,-45.310844,30,18,23,Sim,88,Chuva moderada,05:28:00,18:51:00,4.5
+Sao Luiz do Paraitinga,3550001,Sudeste,2023-01-16,Brazil,-23.222054,-45.310844,28,18,22,Sim,78,Chuva moderada,05:29:00,18:51:00,4.0
+Sao Luiz do Paraitinga,3550001,Sudeste,2023-01-17,Brazil,-23.222054,-45.310844,28,18,20,Não,61,Chuva moderada,05:29:00,18:51:00,4.3
+Sao Sebastiao,3550704,Sudeste,2023-01-12,Brazil,-23.802786,-45.40705,29,22,24,Sim,80,Possibilidade de chuva irregular,05:26:00,18:54:00,7.6
+Sao Sebastiao,3550704,Sudeste,2023-01-13,Brazil,-23.802786,-45.40705,30,22,25,Sim,88,Chuva moderada,05:26:00,18:54:00,7.6
+Sao Sebastiao,3550704,Sudeste,2023-01-14,Brazil,-23.802786,-45.40705,31,22,26,Sim,85,Chuva moderada,05:27:00,18:54:00,6.9
+Sao Sebastiao,3550704,Sudeste,2023-01-15,Brazil,-23.802786,-45.40705,31,22,26,Sim,88,Chuva moderada,05:28:00,18:54:00,6.5
+Sao Sebastiao,3550704,Sudeste,2023-01-16,Brazil,-23.802786,-45.40705,28,22,24,Sim,88,Chuva moderada,05:29:00,18:54:00,7.6
+Sao Sebastiao,3550704,Sudeste,2023-01-17,Brazil,-23.802786,-45.40705,31,22,24,Sim,87,Possibilidade de chuva irregular,05:29:00,18:54:00,4.5
+Silveiras,3552007,Sudeste,2023-01-12,Brazil,-22.66384,-44.852158,26,15,20,Sim,94,Chuva moderada,05:27:00,18:51:00,2.7
+Silveiras,3552007,Sudeste,2023-01-13,Brazil,-22.66384,-44.852158,30,15,22,Sim,89,Chuva moderada,05:28:00,18:52:00,4.5
+Silveiras,3552007,Sudeste,2023-01-14,Brazil,-22.66384,-44.852158,31,16,22,Sim,87,Chuva moderada,05:28:00,18:52:00,3.8
+Silveiras,3552007,Sudeste,2023-01-15,Brazil,-22.66384,-44.852158,31,17,23,Sim,87,Chuva moderada,05:29:00,18:52:00,3.4
+Silveiras,3552007,Sudeste,2023-01-16,Brazil,-22.66384,-44.852158,31,17,23,Sim,79,Possibilidade de chuva irregular,05:30:00,18:51:00,4.0
+Silveiras,3552007,Sudeste,2023-01-17,Brazil,-22.66384,-44.852158,30,16,20,Sim,83,Chuva moderada,05:30:00,18:51:00,3.8
+Taubate,3554102,Sudeste,2023-01-12,Brazil,-23.031448,-45.56128,25,17,20,Sim,87,Chuva moderada,05:28:00,18:53:00,2.9
+Taubate,3554102,Sudeste,2023-01-13,Brazil,-23.031448,-45.56128,29,17,22,Sim,89,Chuva moderada,05:29:00,18:53:00,5.4
+Taubate,3554102,Sudeste,2023-01-14,Brazil,-23.031448,-45.56128,32,18,24,Sim,85,Chuva moderada,05:29:00,18:53:00,3.6
+Taubate,3554102,Sudeste,2023-01-15,Brazil,-23.031448,-45.56128,32,19,24,Sim,89,Chuva moderada,05:30:00,18:53:00,4.3
+Taubate,3554102,Sudeste,2023-01-16,Brazil,-23.031448,-45.56128,31,19,23,Sim,84,Possibilidade de chuva irregular,05:31:00,18:53:00,3.6
+Taubate,3554102,Sudeste,2023-01-17,Brazil,-23.031448,-45.56128,31,18,22,Sim,88,Possibilidade de chuva irregular,05:31:00,18:53:00,3.6
+Tremembe,3554805,Sudeste,2023-01-12,Brazil,-22.95714,-45.547527,25,18,21,Sim,97,Chuva moderada,05:28:00,18:53:00,2.7
+Tremembe,3554805,Sudeste,2023-01-13,Brazil,-22.95714,-45.547527,29,18,23,Sim,89,Chuva forte,05:28:00,18:53:00,4.0
+Tremembe,3554805,Sudeste,2023-01-14,Brazil,-22.95714,-45.547527,31,20,24,Sim,83,Chuva moderada,05:29:00,18:53:00,3.8
+Tremembe,3554805,Sudeste,2023-01-15,Brazil,-22.95714,-45.547527,31,20,24,Sim,88,Chuva moderada,05:30:00,18:53:00,4.3
+Tremembe,3554805,Sudeste,2023-01-16,Brazil,-22.95714,-45.547527,30,20,24,Sim,88,Chuva moderada,05:31:00,18:53:00,3.1
+Tremembe,3554805,Sudeste,2023-01-17,Brazil,-22.95714,-45.547527,30,20,22,Sim,80,Chuva moderada,05:31:00,18:53:00,3.1
+Ubatuba,3555406,Sudeste,2023-01-12,Brazil,-23.433163,-45.083416,29,18,23,Sim,86,Possibilidade de chuva irregular,05:26:00,18:54:00,3.8
+Ubatuba,3555406,Sudeste,2023-01-13,Brazil,-23.433163,-45.083416,32,18,23,Sim,85,Chuva moderada,05:27:00,18:54:00,4.3
+Ubatuba,3555406,Sudeste,2023-01-14,Brazil,-23.433163,-45.083416,35,19,25,Sim,77,Chuva moderada,05:28:00,18:54:00,4.0
+Ubatuba,3555406,Sudeste,2023-01-15,Brazil,-23.433163,-45.083416,34,19,25,Sim,89,Chuva moderada,05:28:00,18:54:00,3.8
+Ubatuba,3555406,Sudeste,2023-01-16,Brazil,-23.433163,-45.083416,31,19,24,Sim,86,Chuva moderada,05:29:00,18:54:00,4.7
+Ubatuba,3555406,Sudeste,2023-01-17,Brazil,-23.433163,-45.083416,31,18,22,Sim,87,Chuva moderada,05:30:00,18:54:00,4.5
