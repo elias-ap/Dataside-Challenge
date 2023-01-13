@@ -2,12 +2,10 @@
 <img src="https://static.wixstatic.com/media/efe4c3_128d08de3ab94815b7f619719ea5d21c~mv2.png/v1/fill/w_200,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Dataside%20logo.png">
 </div>
 
-
 <h1 align="center">Dataside Challenge</h1>
 
----
-
 ## Objetivo
+
 <p align="justify">O desafio que a Dataside propôs, foi o desenvolvimento de um notebook que será responsável por extrair 
 dados de previsão do tempo das cidades do Vale do Paraíba, região onde se localiza a Dataside.</p>
 
@@ -290,7 +288,7 @@ dados de previsão do tempo das cidades do Vale do Paraíba, região onde se loc
 }
 ```
 
-<p align="justify">Ao final da consulta, exportar os dados selecionados para CSV, separando os em duas tabelas:</p>
+<p align="justify">Ao final da consulta, exportar dados selecionados para formato de arquivo .CSV, separando os em duas tabelas:</p>
 
 ### Tabela 1
 Cidade |	CodigoDaCidade | Regiao |	Data | Pais |	Latitude	| Longitude	| TemperaturaMaxima	| TemperaturaMinima	| TemperaturaMedia	| VaiChover	| ChanceDeChuva	| CondicaoDoTempo | NascerDoSol	| PorDoSol	| VelocidadeMaximaDoVento |
@@ -299,6 +297,10 @@ Cidade |	CodigoDaCidade | Regiao |	Data | Pais |	Latitude	| Longitude	| Temperat
 ### Tabela 2
 | Cidade |	QtdDiasVaiChover |	QtdDiasNaoVaiChover |	TotalDiasMapeados |
 | ------ | ----------------- | -------------------- | ----------------- |
+
+### Detalhes
+Mais detalhes técnicos sobre o desafio podem ser encontrados no arquivo abaixo, juntamente com o código do notebook:
+> [main.ipynb](https://github.com/elias-ap/Dataside-Challenge/blob/main/main.ipynb)
 
 ## Passos
 
@@ -432,7 +434,7 @@ df_table2 = spark.sql(f'SELECT Cidade, \
 
 ```
 
-9. Exportar o data frame para formato CSV:
+9. Exportar o data frame para formato .CSV:
 
 ```Python
 # Exportar CSVs
@@ -451,10 +453,12 @@ days = abs(initial_date - end_date).days
 Dessa forma, seria possível automatizar o software para sempre consultar os proximos 5 dias ou ainda controlar a saída de dados buscando por dias específicos.
 
 ## Tecnologias usadas
-- Linguagens
+
+- Linguagens:
     - Python e SQL
 
-- Bibliotecas
+- Bibliotecas:
+
     ```Python
     import findspark
     import requests
@@ -464,8 +468,6 @@ Dessa forma, seria possível automatizar o software para sempre consultar os pro
     from pyspark.sql import SparkSession
     from pyspark.sql.functions import to_date, current_date
     ```
-
-
 
 - API's:
     - [Documentação API IBGE — Localidades](https://servicodados.ibge.gov.br/api/docs/localidades)
