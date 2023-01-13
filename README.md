@@ -290,9 +290,15 @@ dados de previsão do tempo das cidades do Vale do Paraíba, região onde se loc
 }
 ```
 
-<p align="justify">Ao final da consulta, exportar os dados selecionados para CSV, separando em duas tabelas:</p>
+<p align="justify">Ao final da consulta, exportar os dados selecionados para CSV, separando os em duas tabelas:</p>
 
+### Tabela 1
+Cidade |	CodigoDaCidade | Regiao |	Data | Pais |	Latitude	| Longitude	| TemperaturaMaxima	| TemperaturaMinima	| TemperaturaMedia	| VaiChover	| ChanceDeChuva	| CondicaoDoTempo | NascerDoSol	| PorDoSol	| VelocidadeMaximaDoVento |
+| ---- | --------------- | ------ | ---- | ---- | --------- | --------- | ----------------- | ----------------- | ----------------- | --------- | ------------- | -------------------- | ----------- | --------- | ----------------------- |
 
+### Tabela 2
+| Cidade |	QtdDiasVaiChover |	QtdDiasNaoVaiChover |	TotalDiasMapeados |
+| ------ | ----------------- | -------------------- | ----------------- |
 
 ## Passos
 
