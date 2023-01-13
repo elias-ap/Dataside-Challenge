@@ -8,22 +8,25 @@
 ---
 
 ## Objetivo
-<p align="justify">O desafio que a Dataside propôs foi o desenvolvimento de um notebook que será responsável por extrair 
+<p align="justify">O desafio que a Dataside propôs, foi o desenvolvimento de um notebook que será responsável por extrair 
 dados de previsão do tempo das cidades do Vale do Paraíba, região onde se localiza a Dataside.</p>
 
-
-
 ## Passos
-
 ```
-1 - Para consultar todas as cidades dessa região, será utilizado a API do IBGE para localização das cidades;
-2 - Consultar dados geográficos (latitude e longitude) de cada cidade 
-3 - Utilizar Spark SQL para gerar os data frames da Tabelas 1.
-4 - Exportar o data frame para CSV.
+1 - Consultar todas as cidades dessa região utilizando uma API para localização das cidades;
+2 - Gerar um dataframe das cidade consultadas com os campos ID da cidade, nome da cidade e região;
+3 - Criar uma view temporária do dataframe gerado com as informações das cidades;
+4 - Consultar dados geográficos (latitude e longitude) de cada cidade a partir da view das cidades utilizando uma API com essa funcionalidade;
+5 - Com as coordenadas geográficas, consultar a previsão do tempo de cada cidade para os próximos 5 dias;
+6 - Gerar um dataframe das previsões consultadas com os campos ID da cidade, nome, região, data consultada, país, latitude, longitude, temperatua máxima, temperatura mínima, temperatura média, vai chover, chance de chuva, condição do tempo, nascer do sol, pôr do sol e velocidade máxima do vento;
+7 - Criar uma view temporária do dataframe gerado com as previsões;
+8 - Gerar um dataframe da Tabela 1 e 2, a partir da view das previsões;
+9 - Exportar o data frame para CSV;
 ```
 
 
 [Documentação API IBGE — Localidades](https://servicodados.ibge.gov.br/api/docs/localidades)
+
 
 
 
