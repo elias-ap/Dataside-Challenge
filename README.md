@@ -453,6 +453,7 @@ Dessa forma, seria possível automatizar o software para sempre consultar os pro
 ## Output
 
 > [Tabela 1](https://github.com/elias-ap/Dataside-Challenge/blob/main/Tabelas/Tabela1.csv)
+
 > [Tabela 2](https://github.com/elias-ap/Dataside-Challenge/blob/main/Tabelas/Tabela2.csv)
 
 ## Tecnologias usadas
