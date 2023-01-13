@@ -475,7 +475,7 @@ Dessa forma, seria possível automatizar o software para sempre consultar os pro
 
 - API's:
     - [Documentação API IBGE — Localidades](https://servicodados.ibge.gov.br/api/docs/localidades)
-    - [Documentação API Nominatim — Dados geográficos](https://nominatim.org/release-docs/develop/api/Overview/)
+    - [Documentação API Nominatim — Dados geográficos](https://nominatim.org/release-docs/develop/)
     - [Documentação API Weather — Previsão do tempo](https://www.weatherapi.com/docs/)
 
 ---
