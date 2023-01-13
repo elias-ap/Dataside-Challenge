@@ -5,7 +5,7 @@
 <h1 align="center">Dataside Challenge</h1>
 
 <p align="justify">O desafio que a Dataside propôs, foi o desenvolvimento de um notebook que será responsável por extrair 
-dados de previsão do tempo das cidades do Vale do Paraíba, região onde se localiza a **Dataside**.</p>
+dados de previsão do tempo das cidades do Vale do Paraíba, região onde se localiza a ***Dataside***.</p>
 
 ```geojson
 {
