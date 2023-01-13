@@ -387,7 +387,7 @@ for city in df_cities.collect():
         row_list.append(row)
 ````
 
-6. Gerar um dataframe das previsões consultadas com os campos ID da cidade, nome, região, data consultada, país, latitude, longitude, temperatua máxima, temperatura mínima, temperatura média, vai chover, chance de chuva, condição do tempo, nascer do sol, pôr do sol e velocidade máxima do vento:
+6. Gerar um dataframe das previsões consultadas com os campos nome, ID da cidade, região, data consultada, país, latitude, longitude, temperatua máxima, temperatura mínima, temperatura média, vai chover, chance de chuva, condição do tempo, nascer do sol, pôr do sol e velocidade máxima do vento:
 
 ```Python
 # Criar data frame com as previsões
