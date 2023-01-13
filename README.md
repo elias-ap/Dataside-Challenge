@@ -1,10 +1,8 @@
 <div align="center">
-<img src="https://static.wixstatic.com/media/efe4c3_128d08de3ab94815b7f619719ea5d21c~mv2.png/v1/fill/w_200,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Dataside%20logo.png">
+<img src="https://static.wixstatic.com/media/efe4c3_d4c9a129e6264a75bbcc9f54ec63bd45~mv2.png/v1/fill/w_145,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Dataside%20-%20Monocromatico.png">
 </div>
 
 <h1 align="center">Dataside Challenge</h1>
-
-## Objetivo
 
 <p align="justify">O desafio que a Dataside propôs, foi o desenvolvimento de um notebook que será responsável por extrair 
 dados de previsão do tempo das cidades do Vale do Paraíba, região onde se localiza a Dataside.</p>
@@ -474,6 +472,12 @@ Dessa forma, seria possível automatizar o software para sempre consultar os pro
     - [Documentação API Nominatim — Dados geográficos](https://nominatim.org/release-docs/develop/api/Overview/)
     - [Documentação API Weather — Previsão do tempo](https://www.weatherapi.com/docs/)
 
+---
 
-
-
+<div align="center">
+  <img height="100" width="100" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></img>
+  <img height="100" width="150" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></img>
+  <img height="100" width="180" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Nm5EkpIU7BgP13qXGfYBNwpKyUtbszI5QHn73MYf1AfMxB9foiUgIGfOjefMRAjl2lM&usqp=CAU"></img>
+  <img height="150" width="200" align="center" src="https://apilib.prefeitura.sp.gov.br/registry/resource/_system/governance/apimgt/applicationdata/icons/admin/CensoDemografico/v1/icon"></img>
+  <img height="100" width="150" align="center" src="https://nlnet.nl/project/Nominatim/openstreetmap.logo.svg"></img>
+</div>
