@@ -477,7 +477,6 @@ Dessa forma, seria possível automatizar o software para sempre consultar os pro
 <div align="center">
   <img height="100" width="100" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></img>
   <img height="100" width="150" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></img>
-  <img height="100" width="180" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Nm5EkpIU7BgP13qXGfYBNwpKyUtbszI5QHn73MYf1AfMxB9foiUgIGfOjefMRAjl2lM&usqp=CAU"></img>
-  <img height="150" width="200" align="center" src="https://apilib.prefeitura.sp.gov.br/registry/resource/_system/governance/apimgt/applicationdata/icons/admin/CensoDemografico/v1/icon"></img>
-  <img height="100" width="150" align="center" src="https://nlnet.nl/project/Nominatim/openstreetmap.logo.svg"></img>
+  <img height="100" width="180" align="center" src="https://blog.weatherapi.com/wp-content/uploads/2020/02/cropped-Asset-62-1.png"></img>
+  <img height="70" width="220" align="center" src="https://logodownload.org/wp-content/uploads/2018/02/ibge-logo.png"></img>
 </div>
