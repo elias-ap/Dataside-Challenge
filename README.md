@@ -286,7 +286,7 @@
 }
 ```
 
-<p align="justify">Ao final da consulta, exportar dados selecionados para formato de arquivo .CSV, separando os em duas tabelas:</p>
+<p align="justify">Ao final da consulta, exportar dados selecionados para formato de arquivo .CSV, separando os em duas tabelas com os seguintes campos:</p>
 
 ### Tabela 1
 Cidade |	CodigoDaCidade | Regiao |	Data | Pais |	Latitude	| Longitude	| TemperaturaMaxima	| TemperaturaMinima	| TemperaturaMedia	| VaiChover	| ChanceDeChuva	| CondicaoDoTempo | NascerDoSol	| PorDoSol	| VelocidadeMaximaDoVento |
