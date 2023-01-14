@@ -297,7 +297,8 @@ Cidade |	CodigoDaCidade | Regiao |	Data | Pais |	Latitude	| Longitude	| Temperat
 | ------ | ----------------- | -------------------- | ----------------- |
 
 ### Detalhes
-Mais detalhes técnicos sobre o desafio podem ser encontrados no arquivo abaixo, juntamente com o código do notebook:
+<p align="justify">Mais detalhes técnicos sobre o desafio podem ser encontrados no arquivo abaixo, juntamente com o código do notebook:</p>
+
 > [main.ipynb](https://github.com/elias-ap/Dataside-Challenge/blob/main/main.ipynb)
 
 ## Passos
